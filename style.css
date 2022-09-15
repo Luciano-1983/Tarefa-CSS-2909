@@ -1,0 +1,18 @@
+div{
+widht: 100px;
+heght: 100px;
+display: inline-block;
+margin: 2px;
+}
+
+#div1 {
+background-color: silver;
+font-weight: bold;
+font-style: italic;
+}
+
+#div2 {
+background-color: wheat; 
+font-weight: bold;
+font-style: italic;
+}
